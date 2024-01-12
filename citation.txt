@@ -1,8 +1,8 @@
-@inproceedings{zeng2019joint,
-  title={Joint Online Edge Caching and Load Balancing for Mobile Data Offloading in 5G Networks},
-  author={Zeng, Yiming and Huang, Yaodong and Liu, Zhenhua and Yang, Yuanyuan},
-  booktitle={2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)},
-  pages={923--933},
-  year={2019},
-  organization={IEEE}
+@inproceedings{REPO002,
+    author = "Zeng, Yiming and Huang, Yaodong and Liu, Zhenhua and Yang, Yuanyuan",
+    booktitle = "2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)",
+    organization = "IEEE",
+    pages = "923--933",
+    title = "{Joint Online Edge Caching and Load Balancing for Mobile Data Offloading in 5G Networks}",
+    year = "2019"
 }
